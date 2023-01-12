@@ -1,2 +1,4 @@
 # aulapython1
-#tudo esta inluso nesta pasta.
+import pyautogui
+
+pyautogui.hotkey("ctrl","t")
