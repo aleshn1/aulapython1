@@ -13,4 +13,5 @@ time.sleep(2)
 pyautogui.hotkey('ctrl','v')
 pyautogui.hotkey('enter')
 
+#proxima etapa
 
