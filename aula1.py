@@ -15,3 +15,15 @@ pyautogui.hotkey('enter')
 
 #proxima etapa
 
+time.sleep(3)
+print(pyautogui.position())
+pyautogui.click(x=338, y=270, clicks=2)
+time.sleep(2)
+#tela do excel
+pyautogui.click(x=462, y=394)
+time.sleep(2)
+#tres pontinhos
+pyautogui.click(x=818, y=159)
+#fazer dowload
+pyautogui.click(x=619, y=557)
+time.sleep(3)
